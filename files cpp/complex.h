@@ -5,7 +5,13 @@
 #include <cmath>
 using namespace std;
 
+class complex { 
+public:
+  complex();
 
+
+
+};
 
 
 
